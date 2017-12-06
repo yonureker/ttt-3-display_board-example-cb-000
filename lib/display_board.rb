@@ -2,7 +2,7 @@
 def display_board
   cell = "   "
   pipe = "|"
-  row_lines = "___________"
+  row_lines = "-----------"
 
   puts cell + pipe + cell + pipe + cell
   puts row_lines
